@@ -262,6 +262,39 @@ form .btn {
     border-radius: 10px;
     transition: width 0.6s ease;
 }
+/*  */
+#carousel-container {
+    width: 100%;
+    overflow: hidden;
+    white-space: nowrap; /* Prevents the content from wrapping to a new line */
+  }
+  
+  #carousel-content {
+    display: inline-block;
+    white-space: nowrap; /* Makes the logos sit side-by-side in a line */
+    animation: slide 30s linear infinite; /* Infinite scrolling animation */
+  }
+  
+  .section03 {
+    display: inline-block;
+    width: 200px;
+    text-align: center;
+    margin: 0 20px;
+  }
+  .section03 img{
+    width: 100%;
+    height: 200px;
+  }
+  
+  @keyframes slide {
+    0% {
+      transform: translateX(0); /* Start from the beginning */
+    }
+    100% {
+      transform: translateX(-70%); /* Move left by 100% of the container's width */
+    }
+  }
+  /*  */
 
 .timeline {
     margin-top: 2rem;
