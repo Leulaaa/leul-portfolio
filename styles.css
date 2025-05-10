@@ -174,9 +174,9 @@ form .btn {
     margin-left: 40px;
    
 }
-@media only screen and (max-width: 750px){
+@media only screen and (max-width: 600px){
     #naa{
-       max-width: 750px;
+       max-width: 600px;
     }
     #cssa {
         margin-right: 90px;
@@ -193,7 +193,7 @@ form .btn {
         background-position-x: 0px;
         background-position-y: -300px;
         height: 95vh;
-        max-width: 750px;
+        max-width: 600px;
         display: flex;
         align-items: center;
         justify-content: center;
@@ -212,9 +212,13 @@ form .btn {
     #svg-wave {
         position: absolute;
         bottom: 0;
-        max-width: 100%;
+        max-width: 600px;
         left: -300px;
        
+    }
+    #abzz{
+        max-width: 600px;
+        
     }
     #imm{
        max-width: 300px;
@@ -222,53 +226,64 @@ form .btn {
 
     }
     #dsaa{
-        max-width: 750px;
+        max-width: 600px;
         
     }
     #gss{
-        max-width: 750px;
-        margin-left: -100px;
+        
+        max-width: 600px;
+         margin-left: -90px;
+    }
+    #gss2{
+        
+       
+        max-width: 600px;
+    }
+    #gss1{
+        
+        
+       max-width: 600px;
     }
     #zaay{
         display:block;
-        max-width: 750px;
+        max-width: 600px;
     }
     #zq{
     
-        max-width: 750px;
+        max-width: 600px;
     }
     #zzv{
-        max-width: 750px;
+        max-width: 600px;
        
     }
     #zzv img{
-        
+        max-width: 350px;
         margin-left: -30px;
        
     }
     #portfolio{
-        max-width: 750px;
+        max-width: 600px;
     }
     #ppe{
         
         padding-bottom: 30px;
     }
     #pps{
-        max-width: 750px;
+        max-width: 600px;
         
     }
     #carousel-container{
-        max-width: 750px;
+        max-width: 600px;
         
     }
     #section4{
-        max-width: 750px;
+        max-width: 600px;
     }
     #contact{
-        max-width: 750px;
+        max-width: 600px;
     }
     #footer1{
-        max-width: 750px;
+        max-width: 600px;
     }
     
 }
