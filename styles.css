@@ -217,16 +217,17 @@ form .btn {
        
     }
     #imm{
-       max-width: 400px;
-       margin-left: 10px;
+       max-width: 300px;
+       
 
     }
     #dsaa{
         max-width: 750px;
-        margin-left: 5px;
+        
     }
     #gss{
         max-width: 750px;
+        margin-left: -100px;
     }
     #zaay{
         display:block;
@@ -241,7 +242,8 @@ form .btn {
        
     }
     #zzv img{
-        max-width: 400px;
+        
+        margin-left: -30px;
        
     }
     #portfolio{
