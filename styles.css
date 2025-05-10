@@ -217,24 +217,31 @@ form .btn {
        
     }
     #imm{
-        margin-left: 0px;
+       max-width: 400px;
+       margin-left: 10px;
+
     }
     #dsaa{
         max-width: 750px;
-        margin-left: 10px;
+        margin-left: 5px;
     }
     #gss{
         max-width: 750px;
     }
     #zaay{
         display:block;
+        max-width: 750px;
     }
     #zq{
-    width: 600px;
-        margin-left: -100px;
+    
+        max-width: 750px;
     }
     #zzv{
-        
+        max-width: 750px;
+       
+    }
+    #zzv img{
+        max-width: 400px;
        
     }
     #portfolio{
