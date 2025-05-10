@@ -174,9 +174,9 @@ form .btn {
     margin-left: 40px;
    
 }
-@media only screen and (max-width: 600px){
+@media only screen and (max-width: 750px){
     #naa{
-        width: 600px;
+       max-width: 750px;
     }
     #cssa {
         margin-right: 90px;
@@ -191,9 +191,9 @@ form .btn {
         background: url('img/background4.jpg') no-repeat center center fixed;
         background-size: cover;
         background-position-x: 0px;
-        background-position-y: -200px;
+        background-position-y: -300px;
         height: 95vh;
-        width: 600px;
+        max-width: 750px;
         display: flex;
         align-items: center;
         justify-content: center;
@@ -207,12 +207,12 @@ form .btn {
         
     }
     #svg-hero{
-        width: 1100px;
+        max-width: 1100px;
     }
     #svg-wave {
         position: absolute;
         bottom: 0;
-        width: 100%;
+        max-width: 100%;
         left: -300px;
        
     }
@@ -220,46 +220,46 @@ form .btn {
         margin-left: 0px;
     }
     #dsaa{
-        width: 600px;
+        max-width: 750px;
         margin-left: 10px;
     }
     #gss{
-        width: 600px;
+        max-width: 750px;
     }
     #zaay{
         display:block;
     }
     #zq{
-        width: 600px;
+    width: 600px;
         margin-left: -100px;
     }
     #zzv{
-        margin-left: 30px;
+        
        
     }
     #portfolio{
-        width: 600px;
+        max-width: 750px;
     }
     #ppe{
         
         padding-bottom: 30px;
     }
     #pps{
-        width: 570px;
-        margin-left: -30px;
+        max-width: 750px;
+        
     }
     #carousel-container{
-        width: 600px;
-        margin-left: -30px;
+        max-width: 750px;
+        
     }
     #section4{
-        width: 600px;
+        max-width: 750px;
     }
     #contact{
-        width: 600px;
+        max-width: 750px;
     }
     #footer1{
-        width: 600px;
+        max-width: 750px;
     }
     
 }
