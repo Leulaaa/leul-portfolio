@@ -179,7 +179,7 @@ form .btn {
        max-width: 600px;
     }
     #cssa {
-        margin-right: 90px;
+        margin-right: 200px;
         z-index: 1000px;
         font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
         font-size: 1.5rem;
@@ -190,7 +190,7 @@ form .btn {
     .parallax-section {
         background: url('img/background4.jpg') no-repeat center center fixed;
         background-size: cover;
-        background-position-x: 0px;
+        background-position-x: -200px;
         background-position-y: -300px;
         height: 95vh;
         max-width: 600px;
@@ -207,7 +207,7 @@ form .btn {
         
     }
     #svg-hero{
-        max-width: 1100px;
+        max-width: 600px;
     }
     #svg-wave {
         position: absolute;
@@ -257,7 +257,7 @@ form .btn {
        
     }
     #zzv img{
-        max-width: 350px;
+        width: 0px;
         margin-left: -30px;
        
     }
