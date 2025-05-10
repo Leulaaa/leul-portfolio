@@ -176,7 +176,7 @@ form .btn {
 }
 @media only screen and (max-width: 600px){
     #naa{
-        width: 750px;
+        width: 600px;
     }
     #cssa {
         margin-right: 90px;
@@ -193,7 +193,7 @@ form .btn {
         background-position-x: 0px;
         background-position-y: -200px;
         height: 95vh;
-        width: 750px;
+        width: 600px;
         display: flex;
         align-items: center;
         justify-content: center;
@@ -217,49 +217,49 @@ form .btn {
        
     }
     #imm{
-        margin-left: 100px;
+        margin-left: 0px;
     }
     #dsaa{
-        width: 750px;
-        margin-left: 90px;
+        width: 600px;
+        margin-left: 10px;
     }
     #gss{
-        width: 750px;
+        width: 600px;
     }
     #zaay{
         display:block;
     }
     #zq{
-        width: 750px;
+        width: 600px;
         margin-left: -100px;
     }
     #zzv{
-        margin-left: 100px;
+        margin-left: 30px;
        
     }
     #portfolio{
-        width: 750px;
+        width: 600px;
     }
     #ppe{
         
         padding-bottom: 30px;
     }
     #pps{
-        width: 700px;
-        margin-left: -90px;
+        width: 570px;
+        margin-left: -30px;
     }
     #carousel-container{
-        width: 750px;
-        margin-left: -100px;
+        width: 600px;
+        margin-left: -30px;
     }
     #section4{
-        width: 750px;
+        width: 600px;
     }
     #contact{
-        width: 750px;
+        width: 600px;
     }
     #footer1{
-        width: 750px;
+        width: 600px;
     }
     
 }
