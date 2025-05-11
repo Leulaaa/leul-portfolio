@@ -174,9 +174,9 @@ form .btn {
     margin-left: 40px;
    
 }
-@media only screen and (max-width: 600px){
+@media (max-width:750px){
     #naa{
-       max-width: 600px;
+       width: 750px;
     }
     #cssa {
         margin-right: 200px;
@@ -190,10 +190,10 @@ form .btn {
     .parallax-section {
         background: url('img/background4.jpg') no-repeat center center fixed;
         background-size: cover;
-        background-position-x: -200px;
+        background-position-x: 0px;
         background-position-y: -300px;
         height: 95vh;
-        max-width: 600px;
+        width: 750px;
         display: flex;
         align-items: center;
         justify-content: center;
@@ -207,83 +207,85 @@ form .btn {
         
     }
     #svg-hero{
-        max-width: 600px;
+        width: 750px;
     }
     #svg-wave {
         position: absolute;
         bottom: 0;
-        max-width: 600px;
-        left: -300px;
+        width: 750px;
+        left:0px;
        
     }
     #abzz{
-        max-width: 600px;
+    margin-left: 80px;
         
     }
     #imm{
-       max-width: 300px;
+       
        
 
     }
     #dsaa{
-        max-width: 600px;
+        
         
     }
     #gss{
         
-        max-width: 600px;
-         margin-left: -90px;
+        width: 750px;
+         
     }
     #gss2{
         
        
-        max-width: 600px;
+        width: 700px;
+        margin-left: -75px;
     }
     #gss1{
         
         
-       max-width: 600px;
+       
     }
     #zaay{
         display:block;
-        max-width: 600px;
+        width: 700px;
+        margin-left: -75px;
     }
     #zq{
     
-        max-width: 600px;
+       
     }
     #zzv{
-        max-width: 600px;
+        
        
     }
     #zzv img{
-        width: 0px;
-        margin-left: -30px;
+        width: 600px;
+        
        
     }
     #portfolio{
-        max-width: 600px;
+        width: 750px;
     }
     #ppe{
         
         padding-bottom: 30px;
     }
     #pps{
-        max-width: 600px;
+        width: 720px;
         
     }
     #carousel-container{
-        max-width: 600px;
+        width: 750px;
         
     }
     #section4{
-        max-width: 600px;
+        
     }
     #contact{
-        max-width: 600px;
+        width: 750px;
     }
     #footer1{
-        max-width: 600px;
+        width: 750px;
     }
     
 }
