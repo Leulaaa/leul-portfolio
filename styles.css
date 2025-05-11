@@ -189,15 +189,15 @@ form .btn {
     }
     .parallax-section {
         background: url('img/background4.jpg') no-repeat center center fixed;
-        background-size: cover;
+        background-size: auto;
        background-repeat: no-repeat;
+       
         
         
-        
-        align-items: center;
-        justify-content: center;
+        align-items: ;
+        justify-content: ;
         text-align: center;
-        position: relative;
+        position: rela;
         overflow: hidden;
         opacity: 1;
         color: #fff;
