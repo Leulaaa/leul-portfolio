@@ -198,6 +198,7 @@ form .btn {
         position: relative;
         overflow: hidden;
         color: #fff;
+        background-position-x: -100px;
         
         
     }
