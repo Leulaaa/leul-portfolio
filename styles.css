@@ -176,7 +176,7 @@ form .btn {
 }
 @media (max-width:750px){
     #naa{
-       width: 750px;
+ 
     }
     #cssa {
         margin-right: 200px;
@@ -265,21 +265,24 @@ form .btn {
     }
     #portfolio{
         width: 750px;
+       
     }
     #ppe{
         
         padding-bottom: 30px;
     }
     #pps{
-        width: 720px;
+       
         
     }
     #carousel-container{
-        width: 750px;
+        max-width: 750px;
+
         
     }
     #section4{
-        
+       width: 750px; 
+       
     }
     #contact{
         width: 750px;
