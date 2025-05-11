@@ -174,7 +174,7 @@ form .btn {
     margin-left: 40px;
    
 }
-@media (max-width:750px){
+@media (max-width:768px){
     #naa{
        
     }
@@ -218,6 +218,7 @@ form .btn {
        
     }
     #abzz{
+        display: none;
     margin-left: 0px;
         
     }
@@ -231,7 +232,7 @@ form .btn {
         
     }
     #gss{
-        
+        display: none;
         
          
     }
@@ -276,7 +277,7 @@ form .btn {
         
     }
     #carousel-container{
-        width: 450px;
+       
         
     }
     #section4{
@@ -679,11 +680,7 @@ h2 {
 }
 
 /* Responsive adjustments */
-@media (max-width: 768px) {
-    .map-container {
-        height: 300px;
-    }
-}
+
 /* Footer Styling */
 .footer {
     background-color: #343a40;
