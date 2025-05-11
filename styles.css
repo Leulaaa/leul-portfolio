@@ -190,8 +190,7 @@ form .btn {
     .parallax-section {
         background: url('img/background4.jpg') no-repeat center center fixed;
         background-size: cover;
-        background-position-x: 0px;
-        background-position-y: -100px;
+       background-position: center;
         
         
         display: flex;
@@ -207,11 +206,11 @@ form .btn {
         
     }
     #svg-hero{
-        width: 600px;
+       
 
     }
     #svg-wave {
-        position: absolute;
+        
         bottom: 0;
         
         left:0px;
