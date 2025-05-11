@@ -174,13 +174,13 @@ form .btn {
     margin-left: 40px;
    
 }
-@media (max-width:750px){
+@media (max-width:600px){
     #naa{
- 
+       
     }
     #cssa {
-        margin-right: 200px;
-        z-index: 1000px;
+        margin-right: 100px;
+        z-index: 0px;
         font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
         font-size: 1.5rem;
         font-weight: 400;
@@ -190,10 +190,10 @@ form .btn {
     .parallax-section {
         background: url('img/background4.jpg') no-repeat center center fixed;
         background-size: cover;
-        background-position-x: 0px;
+        background-position-x: -10px;
         background-position-y: -300px;
         height: 95vh;
-        width: 750px;
+        
         display: flex;
         align-items: center;
         justify-content: center;
@@ -207,21 +207,22 @@ form .btn {
         
     }
     #svg-hero{
-        width: 750px;
+        width: 600px;
+
     }
     #svg-wave {
         position: absolute;
         bottom: 0;
-        width: 750px;
+        
         left:0px;
        
     }
     #abzz{
-    margin-left: 80px;
+    margin-left: 0px;
         
     }
     #imm{
-       
+       width: 400px;
        
 
     }
@@ -231,13 +232,13 @@ form .btn {
     }
     #gss{
         
-        width: 750px;
+        
          
     }
     #gss2{
         
        
-        width: 700px;
+        width: 400px;
         margin-left: -75px;
     }
     #gss1{
@@ -247,7 +248,7 @@ form .btn {
     }
     #zaay{
         display:block;
-        width: 700px;
+        width: 400px;
         margin-left: -75px;
     }
     #zq{
@@ -259,13 +260,12 @@ form .btn {
        
     }
     #zzv img{
-        width: 600px;
+        width: 300px;
         
        
     }
     #portfolio{
-        width: 750px;
-       
+        
     }
     #ppe{
         
@@ -276,19 +276,17 @@ form .btn {
         
     }
     #carousel-container{
-        max-width: 750px;
-
+        width: 450px;
         
     }
     #section4{
-       width: 750px; 
-       
+      
     }
     #contact{
-        width: 750px;
+        
     }
     #footer1{
-        width: 750px;
+        
     }
     
 }
