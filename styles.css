@@ -188,8 +188,8 @@ form .btn {
         margin-bottom: 0.5rem;
     }
     .parallax-section {
-        background: url('img/background4.jpg') no-repeat center center fixed;
-        background-size: contain;
+        background: url('img/background44.jpg') no-repeat center center fixed;
+        background-size: cover;
         background-position: center;
         height: ;
         display: flex;
