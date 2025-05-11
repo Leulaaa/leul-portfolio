@@ -188,17 +188,16 @@ form .btn {
         margin-bottom: 0.5rem;
     }
     .parallax-section {
-        background: url('img/background4.JPG') no-repeat center center fixed;
-        background-size: contain;
-       
+        background: url('img/background4.jpg') no-repeat center center fixed;
+        background-size: cover;
+        height: 100vh;
+        display: flex;
         align-items: center;
         justify-content: center;
         text-align: center;
-        
+        position: relative;
         overflow: hidden;
-        opacity: 1;
         color: #fff;
-        z-index: 0px;
         
         
     }
