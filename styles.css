@@ -174,7 +174,7 @@ form .btn {
     margin-left: 40px;
    
 }
-@media (max-width:600px){
+media (max-width:600px){
     #naa{
        
     }
@@ -190,9 +190,9 @@ form .btn {
     .parallax-section {
         background: url('img/background4.jpg') no-repeat center center fixed;
         background-size: cover;
-        background-position-x: -10px;
-        background-position-y: -300px;
-        height: 95vh;
+        background-position-x: 0px;
+        background-position-y: -100px;
+        
         
         display: flex;
         align-items: center;
@@ -280,7 +280,7 @@ form .btn {
         
     }
     #section4{
-      
+      display: none;
     }
     #contact{
         
